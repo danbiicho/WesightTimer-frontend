@@ -1,19 +1,16 @@
 import React from 'react'
-import Nav from '../components/Nav';
 import styled, {ThemeProvider} from 'styled-components';
 import theme from '../styles/theme';
 
-
-const Main = () => {
+const Nav = () => {
     return (
         <ThemeProvider theme={theme}>
-        <Nav />
         <div>
-            Wesight Timer Main
+            Wesight Timer Nav
         </div>
         </ThemeProvider>
     )
 }
 
 
-export default Main;
+export default Nav;
