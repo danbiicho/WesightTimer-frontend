@@ -133,7 +133,8 @@ table {
 
   @font-face {
     font-family: JennaSue;
-    src: url("https://insighttimer.com/static/media/JennaSue.1b57442a.woff2");
+    src: url("https://insighttimer.com/static/media/JennaSue.1b57442a.woff2")
+    format("woff2");
   }
   
   @font-face {
@@ -158,6 +159,10 @@ table {
     font-family: ProximaNovaLight;
     src: url("https://insighttimer.com/static/media/ProximaNova-Light.e0bf8389.woff2")
       format("woff2");
+  }
+
+  body {
+    background: "#f2f2f2";
   }
 
 `;
