@@ -132,8 +132,8 @@ table {
 }
 
   @font-face {
-    font-family:JennaSue;
-    src: url("https://insighttimer.com/static/media/JennaSue.1b57442a.woff2);
+    font-family: JennaSue;
+    src: url("https://insighttimer.com/static/media/JennaSue.1b57442a.woff2");
   }
   
   @font-face {
