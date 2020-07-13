@@ -26,4 +26,4 @@
 
 
 # 데모영상
-(https://www.youtube.com/watch?v=SW3sRK-Oi4M&feature=youtu.be)
+(https://youtu.be/SW3sRK-Oi4M)
