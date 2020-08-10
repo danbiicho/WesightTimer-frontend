@@ -2,7 +2,6 @@
 - 명상음악 감상사이트 Insight Timer 홈페이지 클론
 - 개발기간 : 2주 (2020.05.11-2020.05.22)
 - 인원 : 프론트엔드 3명, 백엔드 2명
-<br>
 
 ## 사용한 기술
 ReactJS (React Hooks), Styled-Components, Redux
@@ -16,7 +15,6 @@ ReactJS (React Hooks), Styled-Components, Redux
 <br>
 
 ## What I Did
-
 **회원가입 / 로그인 / 로그아웃**
 - 메일을 이용한 회원가입 및 로그인
 - 하나의 모달 창으로 회원가입, 로그인 탭을 누르면 그에 맞게 정보를 입력할 수 있는 컴포넌트가 보이도록 구현
@@ -32,7 +30,6 @@ ReactJS (React Hooks), Styled-Components, Redux
 
 **Nav**
 - Mock data를 이용한 Navigation 구현 및 hover 효과 구현
-
 
 # 데모영상
 (https://youtu.be/SW3sRK-Oi4M)
