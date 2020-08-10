@@ -2,6 +2,7 @@
 - 명상음악 감상사이트 Insight Timer 홈페이지 클론
 - 개발기간 : 2주 (2020.05.11-2020.05.22)
 - 인원 : 프론트엔드 3명, 백엔드 2명
+<br>
 
 ## 사용한 기술
 ReactJS (React Hooks), Styled-Components, Redux
